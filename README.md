@@ -4,4 +4,4 @@ hello again
 
 ========
 a. What is an issue?
-It is a feature on GitHub that allows us to track requested.
+Issues are use to track todos, bugs, feature requests, and more. As issues are created, they'll appear here in a searchable and filterable list. TO get started, you should create an issue.
